@@ -12,11 +12,11 @@ import java.util.zip.GZIPInputStream;
 
 /**
  * 変態糞土方/変態糞親父の怪文取得
- * 参考->https://dic.nicovideo.jp/a/%E5%A4%89%E6%85%8B%E7%B3%9E%E8%A6%AA%E7%88%B6
  *
  * <img alt="DokataImage" src="https://cdn.discordapp.com/attachments/358878159615164416/892345928055398420/r1280x720l.jpg">
  *
  * @author MORIMORI0317
+ * @see <a href="https://dic.nicovideo.jp/a/%E5%A4%89%E6%85%8B%E7%B3%9E%E8%A6%AA%E7%88%B6">label</a>
  * @since 1.0
  */
 public class KusoDokata {
