@@ -1,2 +1,2 @@
 # KusoDokataLibrary
-Library to get Dokata texts
+糞土方の怪文取得ライブラリ
